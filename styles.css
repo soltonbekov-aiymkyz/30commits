@@ -83,4 +83,9 @@ h3{
     .case__btn_green{
         background-color: green;
     }
+     
+    .btn-holder{
+        display: flex;
+        margin-top: 67px;
+    }
     
