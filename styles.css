@@ -28,3 +28,10 @@ h2{
     color: blueviolet;
     margin-bottom: 25px;
 }
+
+.kase-wrap{
+    background-color: #585164;
+    padding: 103px;
+    display: flex;
+
+}
