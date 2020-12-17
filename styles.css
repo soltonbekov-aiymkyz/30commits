@@ -41,3 +41,10 @@ h2{
     padding: 30px;
     margin-right: 57px;
 }
+
+.case-img{
+    width: 100%;
+    height: 120px;
+    background-color: #e5e5e5;
+    margin-bottom: 22px;
+}
