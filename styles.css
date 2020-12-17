@@ -89,3 +89,15 @@ h3{
         margin-top: 67px;
     }
     
+    .btn-holder__item{
+        font-weight: bold;
+        font-size: 15px;
+        color: white;
+        width: 209px;
+        padding: 18px ;
+        border-radius: 100px;
+        margin-right: 34px;
+        border: none;
+        cursor: pointer;
+        transition: all 0.5s ease;
+    }
