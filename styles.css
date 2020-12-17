@@ -33,5 +33,11 @@ h2{
     background-color: #585164;
     padding: 103px;
     display: flex;
+}
 
+.casecard{
+    background-color: #fff;
+    width: 264px;
+    padding: 30px;
+    margin-right: 57px;
 }
