@@ -59,3 +59,18 @@ h3{
         font-size: 13px;
         color: black;
     }
+
+
+    .case-holder{
+    display: flex;
+    margin-top: 25px;
+    
+    }
+    .case-btn{
+        width: 26px;
+        height: 26px;
+        margin-right: 14px;
+    }
+    .case__btn_pink{
+        background-color: #fc69a9;
+    }
