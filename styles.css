@@ -101,3 +101,9 @@ h3{
         cursor: pointer;
         transition: all 0.5s ease;
     }
+    
+    .btn-holder__item_purple{
+        background-color: purple;
+    }
+    
+ 
